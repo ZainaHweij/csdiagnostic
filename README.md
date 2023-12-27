@@ -1,5 +1,5 @@
-# ACS Detection - SEF 2024
-Regression algorithm associating skin to surface pressure readings to ground truth intracompartmental pressure. 
-Takes in raw data from FSR sensor file. Outputs trained model with three layers. Converts model to tensorflowLite format. 
+# Noninvasive Acute Compartment Syndrome Diagnositic 
+
+Code for a continuous, objective, noninvasive diagnostic for ACS. The device detects ACS through a random forest machine learning model that uses pressure readings from force-sensitive resistors (FSRs) placed on the skin. The final diagnosis is exported real-time to a web application via Bluetooth. 
 
 Coded through TensorFlow Lite.
