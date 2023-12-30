@@ -4,4 +4,4 @@ Code for a continuous, objective, noninvasive diagnostic for ACS. The device det
 
 Coded through TensorFlow Lite.
 
-Web application connects to Arduino ESP32. 
+Web application connects to Arduino ESP32 via bluetooth. 
